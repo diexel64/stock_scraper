@@ -8,7 +8,7 @@ This data can then be easily stored in an Excel spreadsheet thanks to the Excel.
 
 2. Making it run
 
-The program uses some common libraries that do not come installed by default in Python, namely pandas, bs4, requests, openpyxl
+The program uses some common libraries that do not come installed by default in Python, namely pandas, bs4, requests and xlrd.
 It is possible to install them by using the pip install command.
 
 3. Run Scrape.py
