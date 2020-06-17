@@ -549,4 +549,5 @@ class Scraper:
 
 
 # RUN :
-Scraper('T').get_ratios()
+if __name__ == '__main__':
+    Scraper('T').get_ratios()
