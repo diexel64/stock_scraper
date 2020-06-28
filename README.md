@@ -7,7 +7,7 @@ This program can be used to gather data on any company listed in Yahoo Finance, 
 This is what the file Scrape.py does.
 This data can then be easily stored in an Excel spreadsheet thanks to the Excel.py file for further analysis.
 
-2. Making it run
+2. Running it
 
 The program uses some common libraries that do not come installed by default in Python, namely pandas, bs4, requests and xlrd.
 It is possible to install them by using the pip install command.
